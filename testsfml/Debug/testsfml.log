@@ -1,0 +1,51 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (testsfml.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  tinyxmlparser.cpp
+  tinyxmlerror.cpp
+  tinyxml.cpp
+  tinystr.cpp
+  main.cpp
+c:\users\tean\desktop\vikinggame\testsfml\level.h(64): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\level.h(147): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\level.h(148): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\level.h(188): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\level.h(245): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\level.h(266): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\level.h(267): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\level.h(268): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\level.h(269): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\level.h(312): warning C4018: '<': signed/unsigned mismatch
+c:\users\tean\desktop\vikinggame\testsfml\level.h(321): warning C4018: '<': signed/unsigned mismatch
+c:\users\tean\desktop\vikinggame\testsfml\level.h(343): warning C4018: '<': signed/unsigned mismatch
+c:\users\tean\desktop\vikinggame\testsfml\level.h(344): warning C4018: '<': signed/unsigned mismatch
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(62): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(65): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(119): warning C4551: function call missing argument list
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(122): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(126): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(131): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(177): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(182): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(188): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(193): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(197): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(202): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(206): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(212): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(225): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(249): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(260): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(270): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(309): warning C4018: '<': signed/unsigned mismatch
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(336): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(342): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(348): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\objects.h(364): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\main.cpp(236): warning C4018: '<': signed/unsigned mismatch
+c:\users\tean\desktop\vikinggame\testsfml\main.cpp(244): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+c:\users\tean\desktop\vikinggame\testsfml\main.cpp(336): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+c:\users\tean\desktop\vikinggame\testsfml\level.h(315): warning C4715: 'Level::GetObject': not all control paths return a value
+  testsfml.vcxproj -> C:\Users\Tean\Desktop\VikingGame\Debug\VikingGame.exe
